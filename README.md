@@ -10,7 +10,6 @@ Store the uploaded files in a Google Cloud Storage (GCS) bucket.
 Trigger a Google Cloud Function to process and load the data into BigQuery.
 Use Looker Studio to create insightful dashboards and reports for data visualization.
  
-Tech Stake
 ![image](https://github.com/user-attachments/assets/bec99b25-6f3f-4d90-a49d-8001a36b1b77)
 
 Architecture 
